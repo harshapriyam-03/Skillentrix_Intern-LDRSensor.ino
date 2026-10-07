@@ -44,7 +44,7 @@ Based on the detected light intensity:
 This project was designed and tested using Tinkercad Circuits.
 
 🔗 **Live Tinkercad Simulation:**  
-PASTE YOUR TINKERCAD LINK HERE
+https://www.tinkercad.com/things/dAXf9gJ6pOe-skillentrixinternldr-sensor
 
 ## Circuit
 
